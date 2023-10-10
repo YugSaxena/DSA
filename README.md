@@ -1,2 +1,2 @@
 # DSA
-This is my first Git repository to save DSA based problems & solutions.
+This is my first Git repository to save all my DSA related work.
